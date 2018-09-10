@@ -1,0 +1,25 @@
+{
+  "name": "sahismail-js-footer",
+  "version": "0.1.0",
+  "description": "\"This module allows for a dynamic footer to be generated footer JS applications with and updated year and name.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahismailakpolat/sahismail-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Sahismail Akpolat <akpolat.sahismail@gmail.com> (https://www.npmjs.com/~sahismailakplt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahismailakpolat/sahismail-js-footer/issues"
+  },
+  "homepage": "https://github.com/sahismailakpolat/sahismail-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
